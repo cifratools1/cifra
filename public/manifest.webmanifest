@@ -1,0 +1,23 @@
+{
+  "name": "Cifra — Herramientas técnicas de navegador",
+  "short_name": "Cifra",
+  "description": "Calculadoras de subredes, conversores de bases, generadores de claves y utilidades técnicas directas en tu navegador.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111215",
+  "theme_color": "#18191e",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
